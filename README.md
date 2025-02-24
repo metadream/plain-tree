@@ -1,8 +1,13 @@
-# Plain tree structure components
+# Plain Tree
+A simple and practical tree component based on pure native javascript.
 
 ## Usage 
-```
-new PlainTree(container, options)
+```html
+<link rel="stylesheet" href="plaintree.css"/>
+<script src="plain-tree.js"></script>
+<script>
+const tree = new PlainTree(container, options);
+</script>
 ```
 
 ## Options
