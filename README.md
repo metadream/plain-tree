@@ -3,7 +3,7 @@ A simple and practical tree component based on pure native javascript.
 
 ## Usage 
 ```html
-<link rel="stylesheet" href="plaintree.css"/>
+<link rel="stylesheet" href="plain-tree.css"/>
 <script src="plain-tree.js"></script>
 <script>
 const tree = new PlainTree(container, options);
