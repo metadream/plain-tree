@@ -1,6 +1,5 @@
 # Plain Tree
-A simple and practical tree component based on pure native javascript. 
-
+A simple and practical tree component based on pure native javascript.  
 Demo: https://metadream.github.io/plain-tree
 
 ## Usage 
